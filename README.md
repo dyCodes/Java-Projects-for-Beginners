@@ -7,3 +7,7 @@ Welcome to the "Java-Projects-for-Beginners" repository! This repository contain
 1. **Hello World:**
 
    - A classic introductory program to print "Hello, World!" to the console.
+
+2. **Calculator:**
+
+   - A simple calculator.
